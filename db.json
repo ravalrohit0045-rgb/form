@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "name": "rohit",
+      "email": "ravalrohit0045@gmail.com",
+      "password": "12347555",
+      "id": "tjX1EbB-LiQ",
+      "gender": "Male"
+    },
+    {
+      "name": "vijay bhai",
+      "email": "abhay@gmail.com",
+      "password": "985647123",
+      "id": "mlU0_bDOOwk",
+      "gender": "Male"
+    },
+    {
+      "name": "rohitrrss",
+      "email": "ravalrohit0045@gmail.com",
+      "password": "235689741",
+      "id": "ix3lQM1eGMU",
+      "gender": "Male"
+    },
+    {
+      "name": "ansh",
+      "email": "ansh01@gmail.com",
+      "password": "98981436722314567895",
+      "id": "nFzlrMGRFAo",
+      "gender": "Male"
+    },
+    {
+      "name": "rohit",
+      "email": "ravalrohit0045@gmail.com",
+      "password": "123659847",
+      "gender": "Male",
+      "id": "gAFONPOJGa4"
+    },
+    {
+      "name": "dharm",
+      "email": "dharm@gmail.com",
+      "password": "258963147",
+      "gender": "Male",
+      "id": "xPVR3a7bj7s"
+    }
+  ]
+
+}
